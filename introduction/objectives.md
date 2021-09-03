@@ -1,16 +1,16 @@
 # Objectives
 
-### 2.1. Objetivo principal
+## Main goal
 
- Encontrar programas transcricionais relacionados à imunossenescência.
+Find transcriptional programs related to immunosenescence.
 
-###  2.2. Objetivos secundários
+## Secondary goals
 
- 2.2.1. Encontrar transcritos com perfil de expressão altamente relacionados à idade, denominados de AgingGenes.
+Find transcripts with a highly age-related expression profile, called AgingGenes.
 
- 2.2.2. Identificar rede, seus módulos, de transcritos co-expressos ao longo da vida, denominada AgingNet.
+Identify network, its modules, of transcripts co-expressed throughout life, called AgingNet.
 
- 2.2.3. Avaliar os processos biológicos relacionados aos AgingGenes e aos módulos da AgingNet e como poderiam estar associados ao fenótipo da imunossenescência.
+Evaluate the biological processes related to AgingGenes and AgingNet modules and how they could be associated with the immunosenescence phenotype.
 
- 2.2.4. Identificar momentos da vida no qual os AgingGenes e AgingNet sofrem mudanças nos seus perfis transcricionais.
+Identify moments in life in which AgingGenes and AgingNet undergo changes in their transcriptional profiles.
 
