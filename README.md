@@ -1,16 +1,15 @@
 ---
 description: >-
   Dissertation presented to the Interunit Graduate Program in Bioinformatics at
-  the University of São Paulo (USP) to obtain the Master of Science title.
+  the University of São Paulo (USP) to obtain the Master of Science title in
+  2018.
 ---
 
-# Using Systems Biology to understand Immunosenescence
+# Using Systems Biology to Understand Immunosenescence
 
-**Author:** Fernando Marcon Passos
-
-**Advisor:** Prof. Dr. Helder Takashi Imoto Nakaya
-
-2018
+**Author:** Fernando Marcon Passos  
+**Advisor:** Prof. Dr. Helder Takashi Imoto Nakaya  
+[Computational Systems Biology Laboratory](https://www.csbiology.org/)
 
 ## Abstract
 

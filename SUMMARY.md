@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Using Systems Biology to understand Immunosenescence](README.md)
+* [Using Systems Biology to Understand Immunosenescence](README.md)
 
 ## Background <a id="introduction"></a>
 
