@@ -12,7 +12,10 @@
 * [1.5 Chronic Inflammation During Aging: Inflammaging](introduction/1.5-inflamacao-cronica-durante-o-envelhecimento-inflammaging.md)
 * [1.6 The Immune Risk Phenotype \(IRP\)](introduction/1.6-o-fenotipo-imunologico-de-risco-irp.md)
 * [1.6. Systems Biology](introduction/1.6.-biologia-de-sistemas.md)
-* [Objectives](introduction/objectives.md)
+
+---
+
+* [Objectives](objectives.md)
 
 ## Methods
 
