@@ -1,6 +1,9 @@
 # References
 
+```text
+<a id="1">[1]</a> 
 ACOSTA, J. C. et al. Control of senescence by CXCR2 and its ligands. Cell Cycle, v. 7, n. 19, p. 2956–2959, 13 Oct. 2008.
+```
 
 [ALBANESE, D. et al. A practical tool for maximal information coefficient analysis. GigaScience, v. 7, n. 4, p. 1–8, 1 Apr. 2018. ](http://f1000.com/work/bibliography/5182499)
 
