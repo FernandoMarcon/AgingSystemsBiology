@@ -1,0 +1,56 @@
+# Introduction {#intro}
+
+Desde os primórdios da humanidade, doenças infecciosas são um enorme
+desafio para a sobrevivência da espécie. Somente em meados do século 20
+começamos a ser capazes de controlá-las em adultos e crianças, porém ainda de
+forma insatisfatória em idosos. Por volta dos 60 anos, as pessoas passam a ter uma
+maior susceptibilidade a infecções, particularmente às emergentes. Além disso, quando
+acometidas por alguma infecção, sofrem desfechos mais graves do que pessoas mais
+jovens. Um grande exemplo é a mortalidade por influenza nos Estados Unidos, onde
+cerca de 30.000 pessoas morrem a cada ano, sendo mais de 95% idosos (REID;
+TAUBENBERGER, 2003) [@Reid].
+
+Desde a invenção da vacina, testemunhamos uma mudança radical na
+qualidade e potencial de vida dos seres humanos. Muitos fatores permitiram esse
+progresso além da vacinação, como a diminuição da mortalidade infantil, terapia por
+antibióticos, prevenção de doenças cardíacas e metabólicas, melhoramento das
+condições nutritivas e de higiene. A maior evidência disso é o aumento constante da
+expectativa média de vida no mundo. Estudos recentes indicam que tal crescimento
+permitirá que muitas crianças nascidas nos anos 2000 vivam até os 100 anos em
+países desenvolvidos (MANTON; VAUPEL, 1995).
+
+Este aumento na expectativa de vida se reflete claramente na população idosa,
+que é a com maior crescimento atualmente. De acordo com as Nações Unidas, em
+2015 havia em torno de 901 milhões de idosos, sendo que cerca de 125 milhões
+possuíam mais de 80 anos (UN, 2016). Além disso, essa população constituirá 25% da população mundial em 2030 e dobrará em 2050, passando para 2.1 bilhões, dos quais
+434 milhões terão mais de 80 anos (UN, 2016).
+
+O Envelhecimento na Sociedade e no Indivíduo
+A diminuição da força de trabalho que ocorrerá em decorrência do
+envelhecimento global pode trazer consequências econômicas, políticas e sociais graves. Com o aumento da proporção de idosos na população, aumenta também a
+razão entre o número de pessoas em idade produtiva (entre 15 e 64 anos) e o número
+de pessoas dependentes (idade menor que 15 e maior que 65 anos), um índice
+denominado razão de dependência. Por exemplo, em 2020, cada grupo de 100
+pessoas em idade produtiva sustentará em torno de 43 indivíduos considerados
+dependentes. Em 2060, a projeção de dependentes sustentados passará de 43 para 66
+indivíduos (“IBGE :: Instituto Brasileiro de Geografia e Estatística,” [s.d.]).
+Os idosos vivem uma realidade debilitante em que diversos fatores fisiológicos,
+psicológicos e sociais contribuem para um cenário de exaustão de recursos, onde a
+capacidade reduzida de adaptação a novos desafios e o constante acúmulo de danos a
+nível sistêmico estabelecem um estado de fragilidade e, consequentemente, de
+vulnerabilidade.
+
+Essa situação é um processo dinâmico, oscilando entre envelhecimento saudável e patológico. Quando um indivíduo começa a tender para um cenário patológico observa-se uma grande incidência de doenças crônicas e neoplasias, tais como doença de Alzheimer, Parkinson, diabetes tipo 2, câncer, doenças cardíacas e artrite. Tais doenças, além de serem extremamente debilitantes para o indivíduo, estão entre as doenças mais dispendiosas para os sistemas de saúde (“Health and Economic Costs of Chronic Disease | About Chronic Disease | Chronic Disease Prevention and Health Promotion | CDC,” [s.d.]).
+
+## O Envelhecimento e seus Mecanismos Moleculares
+O envelhecimento é um dos fenômenos biológicos mais complexos encontrados
+na natureza e se refere ao processo intrínseco, inevitável e irreversível de perda de
+viabilidade e aumento da vulnerabilidade relacionado à idade (Comfort, 1964), levando
+a um aumento na taxa de mortalidade logo após a maturidade (FLATT, 2012),
+conforme ilustrado na Figura \@ref(fig:plotCars).
+
+
+```{r plotCars, fig.cap = "A car plot"}
+plot(cars)
+# knitr::include_graphics(rep('_bookdown_files/Master-Thesis_files/fig1.png', 3))
+```

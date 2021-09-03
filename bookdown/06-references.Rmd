@@ -1,0 +1,12 @@
+`r if (knitr::is_html_output()) '
+# References {-}
+'`
+
+@Reid {Reid,
+  title = {The origin of the 1918 pandemic influenza virus a
+continuing enigma.},
+  author = {REID, A. H.},
+  note = {The Journal of General Virology},
+  url = {https://yihui.org/knitr/},
+  year = {2003},
+}

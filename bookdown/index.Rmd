@@ -1,0 +1,23 @@
+--- 
+title: "Usando Biologia de Sistemas para entender a Imunossenescência"
+author: "Fernando Marcon Passos"
+date: "2018"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: ""
+---
+# 
+Mestrado em Bioinformática
+
+Departamento de Análises Clínicas e Toxicológicas
+Faculdade de Ciências Farmacêuticas
+Universidade de São Paulo
+
+SÃO PAULO
+
+Dissertação apresentada ao Programa de Pós-Graduação Interunidades em Bioinformática da Universidade de São Paulo - USP para a obtenção do título de Mestre em Ciências.
+*Área de concentração*: Bioinformática.
+*Orientador*: Prof. Dr. Helder Takashi Imoto Nakaya
